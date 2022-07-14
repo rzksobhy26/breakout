@@ -1,0 +1,7 @@
+-Wall
+-Wextra
+-pedantic
+-std=c11
+-ggdb
+-Ilib/glad/include/
+-Ilib/glfw/include/
